@@ -1,4 +1,4 @@
-num1=float(intput("Enter the first number"))
+           num1=float(intput("Enter the first number"))
            num2=float(intput("Enter the second number"))
                       print("addition:",num1+num2)
 print("subraction:",num1-num2)
